@@ -16,7 +16,7 @@ What's new:
 ---------
 
 -Renamed the Git to IndigoPro last known as (twrb2mini).
--Reorganized the project into sets (TWRB1 and TWRB2 each one compose by classes of its generation ex. Class1, Class2, ..., ClassN).
+-Reorganized the project into sets (TWRB1 and TWRB2 each one composed by marks of it's generation ex. Mark1, Mark2, ..., MarkN).
 
 
 History
