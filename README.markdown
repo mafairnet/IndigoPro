@@ -1,4 +1,4 @@
-IndigoPro
+## IndigoPro
 ============
 
 A Set of Open Source Alarms based on Open Source Hardware.. 
@@ -6,20 +6,20 @@ A Set of Open Source Alarms based on Open Source Hardware..
 [Source](http://github.com/mafairnet/IndigoPro)
 
 
-Features:
+### Features:
 ---------
 
 - To be assigned.
 
 
-What's new:
+### What's new:
 ---------
 
--Renamed the Git to IndigoPro last known as (twrb2mini).
--Reorganized the project into sets (TWRB1 and TWRB2 each one composed by marks of it's generation ex. Mark1, Mark2, ..., MarkN).
+- Renamed the Git to IndigoPro last known as (twrb2mini).
+- Reorganized the project into sets (TWRB1 and TWRB2 each one composed by marks of it's generation ex. Mark1, Mark2, ..., MarkN).
 
 
-History
+### History
 -------
 
 ### 0.0.1 ###
@@ -27,7 +27,7 @@ History
 - Initial Pre-Release
 
 
-License
+### License
 -------
 
 Dual licensed under the MIT and GPL licenses:
