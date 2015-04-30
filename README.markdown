@@ -15,6 +15,7 @@ A Set of Open Source Alarms based on Open Source Hardware..
 ### What's new:
 ---------
 
+- Added Mark 3 to TWRB2 M3, includes capability to VoIP phone notifications.
 - Renamed the Git to IndigoPro last known as (twrb2mini).
 - Reorganized the project into sets (TWRB1 and TWRB2 each one composed by marks of it's generation ex. Mark1, Mark2, ..., MarkN).
 
